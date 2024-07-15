@@ -1,0 +1,8 @@
+Hi GitHub Community,
+
+I am pleased to introduce myself as Tanvi Desai, a motivated and enthusiastic fresher in the field of DevOps. With a strong passion for automation and enhancing efficiency in software development and operations, I am eager to contribute my skills and knowledge to impactful projects.
+
+I am excited to announce that I will be initiating a project focused on optimizing our Continuous Integration/Continuous Deployment (CI/CD) pipeline. This project aims to streamline our development processes and significantly improve our deploymentefficiency. I am confident that my innovative approach and commitment will add substantial value to this endeavor.
+
+Thank you for visiting my profile. I look forward to the opportunity to connect and collaborate with fellow professionals inthe field.
+
